@@ -14,9 +14,9 @@ Fundador da [Vancoll Studios](https://matheusvancoll.github.io/) · Natal, RN �
 
 <br>
 
-Construo software que precisa funcionar de verdade: em produção, o dia inteiro, para muita gente.
+Engenharia de software para sistemas que não podem parar.
 
-Hoje, na **Segware**, evoluo uma plataforma de segurança que opera **24/7 sob SLA** e atende uma base estimada de **1,2 milhão de usuários finais**. Fora do expediente, mantenho meus próprios produtos e atendo clientes pela **Vancoll Studios**, o meu estúdio de software.
+Mais de **5 anos** construindo e sustentando software crítico em produção. Hoje, na **Segware**, atuo em uma plataforma de segurança que opera **24/7 sob SLA** e atende **mais de 1 milhão de usuários**. Em paralelo, projeto, desenvolvo e opero meus próprios produtos e sistemas para clientes pela **Vancoll Studios**.
 
 <br>
 
@@ -25,7 +25,7 @@ Hoje, na **Segware**, evoluo uma plataforma de segurança que opera **24/7 sob S
 - **Back-end:** APIs em Java e Spring Boot, com Hibernate/JPA e bancos relacionais (Oracle, MySQL).
 - **Front-end:** interfaces em Angular e React com TypeScript.
 - **Infra:** deploy com Docker, servidores e VPS, AWS e CI/CD.
-- **Produto:** do primeiro rascunho ao ambiente de produção, incluindo a parte que ninguém vê.
+- **Produto:** da arquitetura ao deploy em produção, com responsabilidade pelo ciclo completo.
 
 <br>
 
