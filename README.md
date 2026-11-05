@@ -1,33 +1,73 @@
-<div style="display: inline_block"><br>
-  <h3>Opa! Eu sou o Matheus Vancoll! 👋</h3>
-  <h4>Dev Full Stack com experiência / conhecimento em: </h4>
-  <img align="center" alt="matheusvancoll-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="matheusvancoll-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="matheusvancoll-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="matheusvancoll-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="matheusvancoll-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="matheusvancoll-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="matheusvancoll-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="matheusvancoll-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="matheusvancoll-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="matheusvancoll-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="matheusvancoll-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="matheusvancoll-Insomnia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<div align="center">
+
+# Matheus Andre
+
+**Desenvolvedor Full Stack Pleno** · Java · Spring Boot · Angular · React
+Fundador da [Vancoll Studios](https://matheusvancoll.github.io/) · Natal, RN 🇧🇷
+
+<a href="https://www.linkedin.com/in/matheusandre-silva/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://matheusvancoll.github.io/"><img src="https://img.shields.io/badge/Portfólio-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio"></a>
+<a href="mailto:matheu-s_andre@hotmail.com"><img src="https://img.shields.io/badge/E--mail-374151?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+<a href="https://instagram.com/matheusvancoll"><img src="https://img.shields.io/badge/Instagram-374151?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
 </div>
 
-### 
-<div>
-  <a href="https://github.com/matheusvancoll"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusvancoll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvancoll&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<br>
 
-  - Graduação em: <strong>Análise e desenvolvimento de sistemas</strong>
+Construo software que precisa funcionar de verdade: em produção, o dia inteiro, para muita gente.
 
-  - Amor por <strong>Linux</strong> e o mundo <strong>OpenSource</strong>
+Hoje, na **Segware**, evoluo uma plataforma de segurança que opera **24/7 sob SLA** e atende uma base estimada de **1,2 milhão de usuários finais**. Fora do expediente, mantenho meus próprios produtos e atendo clientes pela **Vancoll Studios**, o meu estúdio de software.
 
-<div> 
-  <a href="https://instagram.com/matheusvancoll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:matheu-s_andre@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheusandre-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<br>
+
+## O que eu faço
+
+- **Back-end:** APIs em Java e Spring Boot, com Hibernate/JPA e bancos relacionais (Oracle, MySQL).
+- **Front-end:** interfaces em Angular e React com TypeScript.
+- **Infra:** deploy com Docker, servidores e VPS, AWS e CI/CD.
+- **Produto:** do primeiro rascunho ao ambiente de produção, incluindo a parte que ninguém vê.
+
+<br>
+
+## Produtos e projetos
+
+| Projeto | O que é |
+| :-- | :-- |
+| **MyHorus** | SaaS de gestão para professores e escolas: aulas, alunos, agenda, financeiro e relatórios. Arquitetei e mantenho do back-end ao deploy. |
+| **Ingressarr** | Plataforma de compra e venda de ingressos. |
+| **VigiAPP** | App para vigilantes, com cadastro e gestão de clientes. |
+| **Associados** | App de cadastro de membros e controle de mensalidades. |
+| **Música do dia** | Site que recomenda uma música nova todos os dias. |
+
+<sub>Mais detalhes e contato em [matheusvancoll.github.io](https://matheusvancoll.github.io/).</sub>
+
+<br>
+
+## Stack
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,angular,react,ts,js,nextjs,html,css&theme=dark">
+    <img alt="Linguagens e frameworks" src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,js,nextjs,html,css&theme=light">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=oracle,mysql,mongodb,docker,aws,git,linux&theme=dark">
+    <img alt="Dados, infra e ferramentas" src="https://skillicons.dev/icons?i=oracle,mysql,mongodb,docker,aws,git,linux&theme=light">
+  </picture>
+</p>
+
+<br>
+
+## Trajetória
+
+- **2024 – hoje · Segware:** desenvolvedor full stack em plataforma de segurança B2B2C de missão crítica.
+- **2021 – hoje · Vancoll Studios:** sistemas sob medida e infraestrutura para clientes, além de produtos próprios.
+- **2021 – 2024 · Logique Sistemas:** de júnior a pleno em um sistema industrial do setor de gás natural.
+
+<br>
+
+## Vamos conversar?
+
+Aberto a conversas sobre vagas, projetos e parcerias.
+O caminho mais rápido é o [LinkedIn](https://www.linkedin.com/in/matheusandre-silva/).
